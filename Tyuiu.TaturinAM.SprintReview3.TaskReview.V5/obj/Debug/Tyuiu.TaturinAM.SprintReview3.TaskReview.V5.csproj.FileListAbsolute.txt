@@ -1,0 +1,11 @@
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\bin\Debug\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5.exe.config
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\bin\Debug\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5.exe
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\bin\Debug\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5.pdb
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\bin\Debug\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5.Lib.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\bin\Debug\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5.Lib.pdb
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\obj\Debug\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5.csproj.AssemblyReference.cache
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\obj\Debug\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5.csproj.CoreCompileInputs.cache
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\obj\Debug\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5.csproj.CopyComplete
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\obj\Debug\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5.exe
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.SprintReview3\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5\obj\Debug\Tyuiu.TaturinAM.SprintReview3.TaskReview.V5.pdb
